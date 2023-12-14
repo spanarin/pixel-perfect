@@ -3,12 +3,14 @@ CSS classes for interactive outline of containers for pixel-perfect layouts ('a 
 
 ## Usage
 
+
+### Adding CSS link
 Just add this link inside `<head>` tag:
 
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/spanarin/pixel-perfect/copilot.css">
 ```
-
+### Adding debug utility classes
 Then add classes `db-1` – `db-5` to your containers classes like this and preview in a built-in browser in VSCode (example with Tailwind CSS utility classes:
 ```html
 <!-- Live Demo -->
@@ -21,3 +23,7 @@ Then add classes `db-1` – `db-5` to your containers classes like this and prev
     </div>
 </div>
 ```
+
+### Live Demo
+
+![Pixel Perfect Copilot Live Demo](https://github.com/spanarin/pixel-perfect/blob/0a7e7e89527b4d998f715a63f0914c52386dfe81/pixel-perfect-copilot-demo.png)
