@@ -1,5 +1,5 @@
-# pixel-perfect
-CSS classes for interactive outline of containers for pixel-perfect layouts ('a la' Pesticide copilot)
+# Pixel-Perfect Copilot
+Make pixel-perfectness great again! CSS classes for interactive outline of containers for pixel-perfect layouts ('a la' Pesticide copilot). Made with love in France 🇫🇷
 
 ## Usage
 
