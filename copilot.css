@@ -1,0 +1,29 @@
+.db-1 {
+  border-width: 1px;
+  border-color: rgb(239 68 68);
+  /* red */
+}
+
+.db-2 {
+  border-width: 1px;
+  border-color: rgb(251 146 60);
+  /* orange */
+}
+
+.db-3 {
+  border-width: 1px;
+  border-color: rgb(16 185 129);
+  /* emerald */
+}
+
+.db-4 {
+  border-width: 1px;
+  border-color: rgb(113 113 122);
+  /* zinc */
+}
+
+.db-5 {
+  border-width: 1px;
+  border-color: rgb(59 130 246);
+  /* blue */
+}
